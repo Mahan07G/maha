@@ -21,14 +21,14 @@
 }
 
 
-}
+
 
 .search{
   height: 40px;
   width: 300px;
   border-radius: 60px;
   outline: none;
-  margin-right: -35px;
+  
   
 
 }
@@ -39,7 +39,9 @@
   outline: none;
   border: none;
   border-radius: 60px;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(101, 98, 98);
+  margin-left: -70px;
+  
 }
 
 #home{
